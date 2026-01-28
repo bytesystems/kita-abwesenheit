@@ -5,12 +5,10 @@ import {
   endOfMonth,
   eachDayOfInterval,
   isSameDay,
-  isSameMonth,
   addMonths,
   subMonths,
   isWithinInterval,
   isBefore,
-  isAfter,
   getDay,
 } from "date-fns";
 import { de } from "date-fns/locale";
